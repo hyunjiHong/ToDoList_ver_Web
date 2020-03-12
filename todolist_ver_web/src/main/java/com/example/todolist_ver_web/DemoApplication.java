@@ -1,4 +1,4 @@
-package com.example.todolist_web;
+package com.example.todolist_ver_web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

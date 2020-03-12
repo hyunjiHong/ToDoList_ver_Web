@@ -1,4 +1,4 @@
-package com.example.todolist_web;
+package com.example.todolist_ver_web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
